@@ -7,7 +7,7 @@ if marks>50 -> pass
 machine learning:
 data + output -> model learns rules
 
-machine learning i the process of teaching computers to learn patterns from data and make predictions or decisions without being explicitly programmed.
+machine learning is the process of teaching computers to learn patterns from data and make predictions or decisions without being explicitly programmed.
 
 
 supervised: learning with a teacher
