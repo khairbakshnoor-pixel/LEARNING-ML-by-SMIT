@@ -1,5 +1,5 @@
 # LEARNING-MACHINE-LEARNING-FROM-SAYLANI-MASS-IT-TRAING-CENTER
-traditional programming:
+# traditional programming:
 data + rules = output
 
 if marks>50 -> pass
