@@ -15,7 +15,7 @@ data has:
 inputs(X)
 correct outputs (Y)
 
-unsupervised learning: no teacher, just data
+# unsupervised learning: no teacher, just data
 no labels
 model finds hidden patterns
 
