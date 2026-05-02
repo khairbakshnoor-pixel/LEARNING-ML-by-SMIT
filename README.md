@@ -10,7 +10,7 @@ data + output -> model learns rules
 machine learning is the process of teaching computers to learn patterns from data and make predictions or decisions without being explicitly programmed.
 
 
-# supervised: learning with a teacher
+### # supervised: learning with a teacher
 data has:
 inputs(X)
 correct outputs (Y)
