@@ -6,7 +6,7 @@ if marks>50 -> pass
 
 machine learning:
 data + output -> model learns rules
-
+## machine learning
 machine learning is the process of teaching computers to learn patterns from data and make predictions or decisions without being explicitly programmed.
 
 
