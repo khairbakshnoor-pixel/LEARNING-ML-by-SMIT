@@ -1,10 +1,8 @@
 streamlit==1.37.1
 pandas==2.2.2
-matplotlib==3.9.0
-pillow==10.4.0
-streamlit
-pandas
 numpy
 scikit-learn
 plotly
 joblib
+matplotlib
+pillow
